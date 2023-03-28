@@ -1,0 +1,33 @@
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.col-izq{
+    background-color: bisque;
+    min-height: 650px;
+}
+
+.letraBlanco{
+    color: white;
+    text-decoration: none;
+
+}
+.letraBlanco:hover{
+    color: white;
+
+}
+.letraBlanco:hover.fa-solid{
+    transition: all 1g;
+    transform: rotate(360deg);
+    font-size: 20px;
+
+}
+
+.perfil{
+    background-image: url("../img/gift\ yasuo.gif");
+    background-size: cover;
+    background-position: center;
+    
+}
